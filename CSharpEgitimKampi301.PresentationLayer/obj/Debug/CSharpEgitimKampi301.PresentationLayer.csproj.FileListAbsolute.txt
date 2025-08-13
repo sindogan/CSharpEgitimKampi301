@@ -8,3 +8,10 @@ C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.Presentatio
 C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.CoreCompileInputs.cache
 C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.exe
 C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.pdb
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.BusinessLayer.dll
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.BusinessLayer.pdb
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.CopyComplete
