@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\bin\Debug\CSharpEgitimKampi301.EntityFramework.exe.config
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\bin\Debug\CSharpEgitimKampi301.EntityFramework.exe
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\bin\Debug\CSharpEgitimKampi301.EntityFramework.pdb
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\obj\Debug\CSharpEgitimKampi301.EntityFramework.Form1.resources
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\obj\Debug\CSharpEgitimKampi301.EntityFramework.Properties.Resources.resources
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.CopyComplete
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\obj\Debug\CSharpEgitimKampi301.EntityFramework.exe
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\obj\Debug\CSharpEgitimKampi301.EntityFramework.pdb
