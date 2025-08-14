@@ -13,3 +13,4 @@ C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFrame
 C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.CopyComplete
 C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\obj\Debug\CSharpEgitimKampi301.EntityFramework.exe
 C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\obj\Debug\CSharpEgitimKampi301.EntityFramework.pdb
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityFramework\obj\Debug\CSharpEgitimKampi301.EntityFramework.FrmLocation.resources
