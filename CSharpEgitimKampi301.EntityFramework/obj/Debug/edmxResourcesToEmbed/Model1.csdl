@@ -14,8 +14,8 @@
       <PropertyRef Name="GuideId" />
     </Key>
     <Property Name="GuideId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-    <Property Name="GuideName" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
-    <Property Name="GuideSurname" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="GuideName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GuideSurname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
     <NavigationProperty Name="Location" Relationship="Self.FK_Location_Guide" FromRole="Guide" ToRole="Location" />
   </EntityType>
   <EntityType Name="Location">

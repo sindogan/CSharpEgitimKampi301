@@ -39,7 +39,7 @@ namespace CSharpEgitimKampi301.EntityFramework
         {
             var values = db.Guide.Select(x => new
             {
-                FullName = x.GuideName + " " + x.GuideSurname ,
+                FullName = x.GuideName.Trim() + " " +   x.GuideSurname.Trim() ,
                 x.GuideId
 
             }).ToList();

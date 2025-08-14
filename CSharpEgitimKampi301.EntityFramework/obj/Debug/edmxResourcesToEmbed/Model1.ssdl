@@ -22,8 +22,8 @@
       <PropertyRef Name="GuideId" />
     </Key>
     <Property Name="GuideId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
-    <Property Name="GuideName" Type="nchar" MaxLength="50" />
-    <Property Name="GuideSurname" Type="nchar" MaxLength="50" />
+    <Property Name="GuideName" Type="nvarchar" MaxLength="50" />
+    <Property Name="GuideSurname" Type="nvarchar" MaxLength="50" />
   </EntityType>
   <EntityType Name="Location">
     <Key>
