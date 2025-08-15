@@ -21,3 +21,4 @@ C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.Presentatio
 C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll
 C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
 C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll.config
+C:\Users\ACER\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.FrmProduct.resources
