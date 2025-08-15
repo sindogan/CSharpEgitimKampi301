@@ -59,6 +59,7 @@ namespace CSharpEgitimKampi301.PresentationLayer
             this.btnGetById.TabIndex = 25;
             this.btnGetById.Text = "ID\'ye Göre Getir";
             this.btnGetById.UseVisualStyleBackColor = true;
+            this.btnGetById.Click += new System.EventHandler(this.btnGetById_Click);
             // 
             // btnDelete
             // 
@@ -78,6 +79,7 @@ namespace CSharpEgitimKampi301.PresentationLayer
             this.btnUpdate.TabIndex = 23;
             this.btnUpdate.Text = "Güncelle";
             this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // btnAdd
             // 
@@ -87,6 +89,7 @@ namespace CSharpEgitimKampi301.PresentationLayer
             this.btnAdd.TabIndex = 22;
             this.btnAdd.Text = "Ekle";
             this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // txtProductName
             // 

@@ -75,8 +75,9 @@ namespace CSharpEgitimKampi301.PresentationLayer
 
 
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void FormCategory_Load(object sender, EventArgs e)
         {
+
          
         }
 
